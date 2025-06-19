@@ -42,9 +42,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshta-27&show_icons=true&locale=en&layout=compact" alt="shreshta-27" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreshta-27" alt="shreshta-27" />
 </p>
